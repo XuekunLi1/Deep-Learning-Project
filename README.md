@@ -15,6 +15,7 @@ The code does the following:
 4. hyperparameter optimisation
 
 The Baseline model speech recognition accuracy reaches 60%
+https://github.com/XuekunLi1/Deep-Learning-Project/blob/main/images/Model%20Accuracy.png
 
 The classifier performance of baseline model across all classes:
 <Figure size 1500x480 with 2 Axes>
